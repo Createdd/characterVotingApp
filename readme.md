@@ -13,6 +13,6 @@ Created by Daniel Deutsch (<kbd>
 ## User stories:
 Build a character voting app (inspired by Facemash) for EVE Online - a massively multiplayer online game. Learn how to build a REST API with Node.js, save and retrieve data from MongoDB, track online visitors in real-time using Socket.IO, build a single-page app experience using React + Flux with server-side rendering and then finally deploy it to the cloud.
 
-## Inspired by [Sahat Yalkabov](http://sahatyalkabov.com/)
+#### Inspired by [Sahat Yalkabov](http://sahatyalkabov.com/)
 
  http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/?utm_content=buffer0cdf2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
