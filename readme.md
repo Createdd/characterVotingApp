@@ -1,5 +1,5 @@
 # Author
-![@DDCreationStudios](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAcwAAAAJDg1MDE4YWFjLTIwN2EtNDJhZC1hNGE2LTY4NjRmZGM2ZmQ2ZA.jpg)
+![@DDCreationStudios](https://s3-us-west-2.amazonaws.com/s.cdpn.io/854371/profile/profile-80_2.jpg)
 
 Created by Daniel Deutsch
 
