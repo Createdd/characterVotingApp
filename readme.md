@@ -1,11 +1,9 @@
 # Author
 ![@DDCreationStudios](https://s3-us-west-2.amazonaws.com/s.cdpn.io/854371/profile/profile-80_2.jpg)
 
-Created by Daniel Deutsch
-
-<kbd>
+Created by Daniel Deutsch (<kbd>
 [Github](https://github.com/DDCreationStudios) / [FreeCodeCamp](https://www.freecodecamp.com/ddcreationstudios) / [CodePen](http://codepen.io/ddcreationstudios/) / [LinkedIn](https://www.linkedin.com/in/daniel-deutsch-b95611127) / [Site](http://ddcreationstudios.at//) / [E-Mail](mailto:office@ddcreationstudios.at)
-</kbd>
+</kbd>)
 
 # Create a character voting app using React, Node.js, MongoDB and Socket.IO
 
@@ -17,6 +15,4 @@ Build a character voting app (inspired by Facemash) for EVE Online - a massively
 
 ## Inspired by [Sahat Yalkabov](http://sahatyalkabov.com/)
 
-```js
  http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/?utm_content=buffer0cdf2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-```
