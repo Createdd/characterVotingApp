@@ -6,7 +6,7 @@ class Home extends React.Component {
       <div className='alert alert-info'>
         Hello from Home Component
       </div>
-    );//return
+    );
   }
 }
 export default Home;
