@@ -31,10 +31,10 @@ class NavbarActions {
   getCharacterCount() {
     $.ajax({ url: '/api/characters/count' })
       .done((data) => {
-        this.actions.getCharacterCountSuccess(data)
+        this.actions.getCharacterCountSuccess(data);
       })
       .fail((jqXhr) => {
-        this.actions.getCharacterCountFail(jqXhr)
+        this.actions.getCharacterCountFail(jqXhr);
       });
   }
 }
